@@ -7,4 +7,6 @@
 -  _Learning Testing and TypeScript_
 -  _1000+ hours of Coding_
 
+🛠️ _Technologies and Tools I use_:
+[![JavaScript](https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png)]
 
