@@ -4,8 +4,9 @@
 <h3 align="center">Full Stack Frontend Developer from India </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Md+Owais+Athar;Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
-<img align="center" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="300">
+<p align="center" >
+<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="300">
+ </p>
 
 
 
@@ -53,22 +54,12 @@
 </p>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=owii8247&show_icons=true&locale=en" alt="owii8247" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=owii8247&show_icons=true&locale=en" alt="owii8247" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owii8247&" alt="owii8247" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=owii8247&" alt="owii8247" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owii8247&show_icons=true&locale=en&layout=compact" alt="owii8247" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=owii8247&show_icons=true&locale=en&layout=compact" alt="owii8247" /></p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
- <h1 dir="auto" align="center"><a id="user-content-github-stats-" class="anchor" aria-hidden="true" href="#github-stats-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>GitHub Stats</h1>
 <p dir="auto" align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/638fed1cdebf2f2d141fcc69420394685cd4dddfc529228fb8db0f39ce607101/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d526f6a616c696e693138267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365">
   
