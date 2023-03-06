@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Testing and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://owii8247.github.io/](https://owii8247.github.io/)
+- 👨‍💻 All of my projects are available at **[Portfolio](https://owii8247.github.io/)**
 
-- 💬 Ask me about **React, Redux**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Redux, MongoDB, Express, Node.js**
 
-- 📫 How to reach me **owais.athar.8092@gmail.com**
+- 📫 How to reach me **[Gmail](owais.athar.8092@gmail.com)**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owii8247" alt="owii8247" /></a> </p>
 
@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-owais-athar-a16337a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-owais-athar-a16337a2/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/owii8247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="owii8247" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/owii8247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="owii8247" height="30" width="40" /></a>
+  <a href="https://leetcode.com/owii8247" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="owii8247" height="30" width="40" /></a>
 
 
 </p>
@@ -50,7 +51,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>  
-    <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+ </a>
 </p>
 </br>
 
