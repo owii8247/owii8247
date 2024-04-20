@@ -1,7 +1,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Md Owais Athar</h1>
-<h3 align="center">Full Stack Frontend Developer from India </h3>
+<h3 align="center">Full Stack Developer | Android & iOS from India </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Md+Owais+Athar;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 <p align="center" >
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://owii8247.github.io/)**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Redux, MongoDB, Express, Node.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, React Native, Redux, MySQL, MongoDB, Express, Node.js**
 
 - 📫 How to reach me **[Gmail](owais.athar.8092@gmail.com)**
 
